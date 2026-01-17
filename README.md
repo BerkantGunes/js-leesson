@@ -1,1 +1,1 @@
-pos-app project demo in js and react
+pos-app project demo in js and react.js
