@@ -1,1 +1,1 @@
-pos-app project in js
+pos-app project in javascript
